@@ -1,7 +1,8 @@
-# A 'Data Science' Jupyter Template for Python >= 3.5 🚀 
+# A 'Data Science' Jupyter Template for Python  :sparkles:
 Starter template for JupyterLab and JupyterNotebook python files to start immediately working on your data science analysis.
 
-
+## Python Version:
+A Python >= 3.5 will work out. 
 
 ## HowTo:
 
